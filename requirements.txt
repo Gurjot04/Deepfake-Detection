@@ -1,0 +1,11 @@
+streamlit
+numpy
+opencv-python-headless
+face_recognition
+keras
+tensorflow
+pydub
+scipy
+soundfile
+torch
+speechbrain
